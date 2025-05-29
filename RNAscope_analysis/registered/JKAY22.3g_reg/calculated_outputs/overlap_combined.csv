@@ -1,0 +1,5 @@
+Region,DAPIcells_alsoTRAPed_numerator,DAPIcells_alsoCfos_numerator,TRAPed_alsoCfos_numerator,TRAPed_alsoCfos_denominator,Cfos_alsoTRAPed_numerator,Cfos_alsoTRAPed_denominator,min_numerator,TRAPed_alsoCfos_percent,Cfos_alsoTRAPed_percent
+dmPAG,5183,1434,860,5821,633,1230,633,10.87,51.46
+dlPAG,5064,1742,1315,5539,1050,1637,1050,18.96,64.14
+lPAG,6444,3198,2240,7464,1863,3223,1863,24.96,57.8
+vlPAG,8341,3913,3443,10640,2760,4045,2760,25.94,68.23

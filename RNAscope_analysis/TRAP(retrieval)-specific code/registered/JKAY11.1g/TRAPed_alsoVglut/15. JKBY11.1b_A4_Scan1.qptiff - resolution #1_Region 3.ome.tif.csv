@@ -1,0 +1,126 @@
+Image	Object ID	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	ID	Side	Parent ID	Num Detections	Num Negative	Num Positive	Positive %	Num Positive per mm^2	Area µm^2	Perimeter µm
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a5d85494-1dc6-4389-bee8-17f09ae906d3	root	root	Image	Geometry	4434	3290.4	997	0	NaN	1146	655	491	42.84	14.79	33203912.5	37146.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	3688bd26-4664-4402-b1fc-6e77931366b3	grey	grey	root	Geometry	4428.8	3183.5	8	0	997	1141	651	490	42.94	16.65	29421987.5	81841.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	3689e33f-a5cb-4722-b52b-59885e520b2f	CB	CB	grey	Geometry	1947.3	2554.6	512	0	8	0	0	0	NaN	0	3211262.4	14996.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	70cfa274-aa4a-4771-afd0-e35df1d49d3e	CBX	CBX	CB	Geometry	1829.1	2460.2	528	0	512	0	0	0	NaN	0	2910012.3	10900.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	79b2bd30-bf75-47ce-a5f8-ff29a638ede0	HEM	HEM	CBX	Geometry	1720.9	2319.8	1073	0	528	0	0	0	NaN	0	2129415.1	9712
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	08726a17-c9cb-42b1-b5d3-182cb12fc195	PFL	PFL	HEM	Geometry	1507.7	3307	1041	0	1073	0	0	0	NaN	0	14332.8	600.24
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	d4d69b6f-823d-4d39-bad1-296fe41404ab	FL	FL	HEM	Geometry	1458.3	3872.1	1049	0	1073	0	0	0	NaN	0	468993	2868
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	15b39731-b2d4-4ecb-b251-a40c7b831fd4	SIM	SIM	HEM	Geometry	1797.7	1869	1007	0	1073	0	0	0	NaN	0	1646089.8	6659.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	0b1e9d78-a058-4de1-b3c7-479fb6f71052	VERM	VERM	CBX	Geometry	2124.2	2843.5	645	0	528	0	0	0	NaN	0	780597.3	3807.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	25910ba6-ae4f-4407-8d1f-4c5f57baf703	CUL	CUL	VERM	Geometry	2124.2	2843.5	928	0	645	0	0	0	NaN	0	780597.3	3807.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	d6839b28-4388-4604-904f-9ff6067c2c5f	CUL4, 5	CUL4, 5	CUL	Geometry	2124.2	2843.5	1091	0	928	0	0	0	NaN	0	780597.3	3807.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7add5f29-d781-4f46-8c07-b2c3487008eb	CH	CH	grey	Geometry	6998	2680.7	567	0	8	0	0	0	NaN	0	5725504.7	14219.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	9d789e17-8349-4f1c-8400-856fcd5702f7	CTX	CTX	CH	Geometry	6998	2680.7	688	0	567	0	0	0	NaN	0	5725504.7	14219.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	3dad29df-b02f-42d1-8762-b5d40bc533e8	CTXpl	CTXpl	CTX	Geometry	6998	2680.7	695	0	688	0	0	0	NaN	0	5725504.7	14219.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6e662e5a-bf40-4ea1-91a9-6f3f9bc0ab5d	Isocortex	Isocortex	CTXpl	Geometry	7452.7	1303.8	315	0	695	0	0	0	NaN	0	790844.8	4968.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	9cfa0b9d-b3fd-43c1-9812-8cdd7d3fb2eb	VIS	VIS	Isocortex	Geometry	7473.1	1310.1	669	0	315	0	0	0	NaN	0	766839.4	5069.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	de4bb573-7869-4cff-9c4a-ec0a5e9d6e0a	VISpor	VISpor	VIS	Geometry	8205.2	1654.8	312782628	0	669	0	0	0	NaN	0	128307.3	1770.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7dd40c1e-1d86-425a-95aa-b12337a0747b	VISpor2/3	VISpor2/3	VISpor	Geometry	8114.2	1661.2	312782636	0	312782628	0	0	0	NaN	0	43599.9	1204.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	0e9146e9-8474-4a81-b6f7-9140f4eb7063	VISpor1	VISpor1	VISpor	Geometry	8252.2	1651.6	312782632	0	312782628	0	0	0	NaN	0	84707.6	1622.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	291a6466-86c9-426a-9c76-b2279a4f783c	VISp	VISp	VIS	Geometry	7072	983.06	385	0	669	0	0	0	NaN	0	138409.7	1873.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	8ff6e52f-702f-4f99-8936-a138db790dc5	VISp1	VISp1	VISp	Geometry	7072	983.06	593	0	385	0	0	0	NaN	0	138409.7	1873.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	35d1fddf-78bc-40de-a00f-25c1223081ca	VISpl	VISpl	VIS	Geometry	7396.5	1312.5	425	0	669	0	0	0	NaN	0	500123.2	3485.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	5f0ea7d1-0014-4fbb-9cf5-81f56abfffbd	VISpl2/3	VISpl2/3	VISpl	Geometry	7469	1371.2	269	0	425	0	0	0	NaN	0	240635.2	2474.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	65868592-6f41-4251-81de-939cf1673e29	VISpl1	VISpl1	VISpl	Geometry	7329	1257.8	750	0	425	0	0	0	NaN	0	259486.3	3952.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	63154aac-f74f-40c5-9515-a77c1e7b2874	RSP	RSP	Isocortex	Geometry	6801	1103.2	254	0	315	0	0	0	NaN	0	24005.1	833
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	50a77260-b2cf-4bf4-927a-f3df0af3e731	RSPagl	RSPagl	RSP	Geometry	6801	1103.2	894	0	254	0	0	0	NaN	0	24005.1	833
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	43f43b4e-84e5-42c7-9153-6901c661c580	RSPagl1	RSPagl1	RSPagl	Geometry	6801	1103.2	671	0	894	0	0	0	NaN	0	24005.1	833
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	754af054-fe1e-46ff-ba28-37284bd2b36f	HPF	HPF	CTXpl	Geometry	6925.1	2901.4	1089	0	695	0	0	0	NaN	0	4934660	12735.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	98c744e2-c63d-4e3c-97ea-fa61cdadef0e	RHP	RHP	HPF	Geometry	6925.1	2901.4	822	0	1089	0	0	0	NaN	0	4934660	12735.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	c22f5842-7154-44fc-bc94-0c5dcfb5e60e	PAR	PAR	RHP	Geometry	7141.8	1766.8	843	0	822	0	0	0	NaN	0	236156.9	3349.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	e37d382d-ed09-47c2-94f3-a413ade6a9fa	ENT	ENT	RHP	Geometry	6914.2	2958.4	909	0	822	0	0	0	NaN	0	4698503.1	12194.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a833cbda-bae6-42a1-ae16-0f70a290c804	ENTl	ENTl	ENT	Geometry	8379.2	3208.4	918	0	909	0	0	0	NaN	0	1014506.3	5299.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7317fa6e-8214-4900-bada-02375ca299f6	ENTl2	ENTl2	ENTl	Geometry	8364.1	3189.8	20	0	918	0	0	0	NaN	0	446888.9	4604.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	8d5d374a-bf16-423f-a68e-d70bd243177d	ENTl3	ENTl3	ENTl	Geometry	8216.1	3144.1	52	0	918	0	0	0	NaN	0	189360.1	3097.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	90796374-5141-4113-ac87-01da4ebc1e38	ENTl1	ENTl1	ENTl	Geometry	8492.8	3267.3	1121	0	918	0	0	0	NaN	0	363172.3	5423.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	195178e7-6938-4788-856e-20e88681cc0e	ENTl5	ENTl5	ENTl	Geometry	8136.4	3146	139	0	918	0	0	0	NaN	0	15085.5	1164.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	d48c5ca1-4c05-4d88-be56-9f39356cd82d	ENTm	ENTm	ENT	Geometry	6510.8	2889.6	926	0	909	0	0	0	NaN	0	3683996.2	12139.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6d05dcea-403c-4606-9758-209c17390653	ENTm1	ENTm1	ENTm	Geometry	4202.9	2883.3	526	0	926	0	0	0	NaN	0	1256206.4	12865.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	9c05fd64-5d02-4ffa-90d9-9162ae4504c8	ENTm2	ENTm2	ENTm	Geometry	7581	2896.6	543	0	926	0	0	0	NaN	0	944832.9	10588.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	e6375ffe-2b07-431b-a4e1-26b4040a9137	ENTm3	ENTm3	ENTm	Geometry	7738.1	2850.7	664	0	926	0	0	0	NaN	0	895097.8	8999
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	1db1dc7e-b175-44d8-9d2b-93211b4bce25	ENTm5	ENTm5	ENTm	Geometry	7853.7	2950.5	727	0	926	0	0	0	NaN	0	587613.8	4084
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	b3c353cf-2d28-4a20-9d44-cd3c89371932	BS	BS	grey	Geometry	4099.7	3422.7	343	0	8	1141	651	490	42.94	23.92	20485546.9	57198.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	10f82a94-2c6c-4ed9-b350-6f133c089219	HB	HB	BS	Geometry	3939	4702.6	1065	0	343	7	6	1	14.29	0.0905	11049677.7	46925.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	b9c7b20e-61c5-4a9a-a3eb-4581203251ad	P	P	HB	Geometry	3972.6	4615.2	771	0	1065	7	6	1	14.29	0.0983	10175411.3	40935.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	739ff13c-c8aa-4e56-9584-a162eb695513	P-sat	P-sat	P	Geometry	4287.7	4308.5	1117	0	771	5	4	1	20	0.3756	2662235.8	15497.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6a0014c0-11d6-43dd-81b2-7fcb413f5822	PRNr	PRNr	P-sat	Geometry	4345.3	4450.5	146	0	1117	0	0	0	NaN	0	2003892.1	9787
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	41f947e7-4b46-4001-a230-707855a2690d	LDT	LDT	P-sat	Geometry	4106.5	2868.3	162	0	1117	5	4	1	20	5.724	174714.2	2265.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	88ca3d03-1c26-46ef-b5ba-dede2544a6fd	CS	CS	P-sat	Geometry	4116.4	4289.5	679	0	1117	0	0	0	NaN	0	372270.8	4987
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	ce745d7f-db66-44e0-9b64-865f9b012867	RPO	RPO	P-sat	Geometry	4107.4	4075.4	238	0	1117	0	0	0	NaN	0	111284.2	1540
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	4038724a-6573-4503-a365-2b8f170e7541	P-sen	P-sen	P	Geometry	3658	4548.1	1132	0	771	0	0	0	NaN	0	2698442	20320.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	db459fa4-6af5-46cf-af86-bd30f54c293e	PSV	PSV	P-sen	Geometry	3529.9	4657.6	7	0	1132	0	0	0	NaN	0	818499.8	5865.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	f2f33c8f-14d4-47e2-9cb9-e84d42fabf9c	PB	PB	P-sen	Geometry	3496	3394.1	867	0	1132	0	0	0	NaN	0	972696.8	7272.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	ef7eb796-cd82-4e53-9df4-350671b7110a	KF	KF	PB	Geometry	2288.5	3822.2	123	0	867	0	0	0	NaN	0	101819.2	1267.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	89e6bf4f-428a-44dd-ba73-145a6df72597	NLL	NLL	P-sen	Geometry	5930.1	2906.1	612	0	1132	0	0	0	NaN	0	61105.9	1047.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	68fbc2a4-5add-4b7c-862b-977fb0655b18	SOC	SOC	P-sen	Geometry	3804.1	5887.5	398	0	1132	0	0	0	NaN	0	846139.1	6519.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a0857d30-30fd-44db-9661-79ddce9db18c	SOCm	SOCm	SOC	Geometry	3786.3	5813.8	105	0	398	0	0	0	NaN	0	198430	2656.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	b7ccb131-e53b-4178-9904-2afbb11ce570	SOCl	SOCl	SOC	Geometry	2963	5774.3	114	0	398	0	0	0	NaN	0	194494.8	3001.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6cb20c0c-5b55-4b5e-ab26-8623e4a2facc	POR	POR	SOC	Geometry	4172.8	5968.4	122	0	398	0	0	0	NaN	0	453214.3	4166
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	1387d101-d2ba-45f5-971f-05645af77922	P-mot	P-mot	P	Geometry	3830.6	4883.4	987	0	771	0	0	0	NaN	0	2648527	17124.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	f30f60bd-cad6-422c-b3e5-9e74ba26b906	SUT	SUT	P-mot	Geometry	4266	3911.4	534	0	987	0	0	0	NaN	0	389823.4	3962.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	c8381570-6e9f-47c8-9bdd-c534007afaf7	TRN	TRN	P-mot	Geometry	4174.6	5224.4	574	0	987	0	0	0	NaN	0	256896.1	2658.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	33eb80db-2db5-41ef-8924-301c19c32064	PRNc	PRNc	P-mot	Geometry	3762.1	5398.2	1093	0	987	0	0	0	NaN	0	1192075	8460.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	e9b97132-1ecc-4715-811e-0e5a53ab5e2d	V	V	P-mot	Geometry	2656.3	4464.8	621	0	987	0	0	0	NaN	0	226211.7	2512.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	4b059530-4b78-4c35-8e9d-e374b18208a5	P5	P5	P-mot	Geometry	4096.9	4427.7	549009215	0	987	0	0	0	NaN	0	499714.1	4523.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	bf81aff6-9f2e-4de5-8b9a-a2f1eb984015	PC5	PC5	P-mot	Geometry	3309.2	4883.1	549009223	0	987	0	0	0	NaN	0	83806.7	2602.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	e28dbcb0-958a-4a29-9122-582acc9b1646	MY	MY	HB	Geometry	3549.3	5720.7	354	0	1065	0	0	0	NaN	0	874825.5	12753
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a334b4f8-56b4-4002-8193-f76c558d533b	MY-sat	MY-sat	MY	Geometry	4127.1	5547.5	379	0	354	0	0	0	NaN	0	61622.4	1179.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	ddb98eca-fbdd-4f0d-8d6d-8a4312b259de	RM	RM	MY-sat	Geometry	4127.1	5547.5	206	0	379	0	0	0	NaN	0	61622.4	1179.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	3a1be0c6-8f26-4199-bc8d-e18611fc50ef	MY-sen	MY-sen	MY	Geometry	3240.2	5507.2	386	0	354	0	0	0	NaN	0	366564.6	4651
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	cfdc38bd-0ff8-4422-830a-51e6b7d5f529	CN	CN	MY-sen	Geometry	1537.6	4682.2	607	0	386	0	0	0	NaN	0	120108	1736.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6eec25f3-43e8-4271-85eb-edade0962b53	VCO	VCO	CN	Geometry	1537.6	4682.2	101	0	607	0	0	0	NaN	0	120108	1736.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	3c0aa065-12ab-4434-8b12-ebded4aba288	NTB	NTB	MY-sen	Geometry	4070	5909.4	642	0	386	0	0	0	NaN	0	246455.5	2914.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	70e80e04-5246-405d-bed9-335c704eff7a	MB	MB	BS	Geometry	4287.8	1923.8	313	0	343	1134	645	489	43.12	51.82	9435791.9	26318
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	164fcfeb-ee55-4f7f-9f3c-ef572e1f1517	MBmot	MBmot	MB	Geometry	4197.8	2505.3	323	0	313	1129	641	488	43.22	154.85	3151356.7	21110
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7639b033-d6a5-4e65-81d8-f107bd231067	PAG	PAG	MBmot	Geometry	4258	2148.8	795	0	323	1128	640	488	43.26	269.8	1808732.7	10864.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	fba940e5-170c-456f-86f1-e8b9ee21f456	CUN	CUN	MBmot	Geometry	4115.5	2473.3	616	0	323	1	1	0	0	0	670925.9	4854
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	40dafcf1-1343-4783-ade7-22e0d6428fef	MRN	MRN	MBmot	Geometry	4116.4	3494.4	128	0	323	0	0	0	NaN	0	606028.1	8564.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	f2de0676-a1fc-4d77-8a43-159e530a5e54	VTN	VTN	MBmot	Geometry	4128.3	3523.4	757	0	323	0	0	0	NaN	0	65484.1	1389.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	fd9fc12a-2f89-4ce6-9d92-4fbab995fd29	MBsen	MBsen	MB	Geometry	4326.7	1290.3	339	0	313	0	0	0	NaN	0	4606628.4	11459.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a5495834-298c-40e2-800d-d674a8117c5f	IC	IC	MBsen	Geometry	4326.7	1290.3	4	0	339	0	0	0	NaN	0	4606628.4	11459.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	3ee93e71-0143-4d52-9fa6-e5498b719da0	ICc	ICc	IC	Geometry	4247.9	1522.9	811	0	4	0	0	0	NaN	0	1704925.8	8366.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	72b96751-c80c-4023-8d57-3a408894a817	ICd	ICd	IC	Geometry	4423	1097.5	820	0	4	0	0	0	NaN	0	1482902.7	7963.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7434ff33-a114-42e6-877f-f416111bd892	ICe	ICe	IC	Geometry	4320.7	1212.2	828	0	4	0	0	0	NaN	0	1418799.8	10022.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7d942a30-7093-42fd-ac4d-cd140100271a	MBsta	MBsta	MB	Geometry	4643.8	3277.1	348	0	313	0	0	0	NaN	0	605040.9	6949.1
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	64f1d235-3e6c-4a3b-a592-d5bcd9f666e4	PPN	PPN	MBsta	Geometry	4750.5	3292.6	1052	0	348	0	0	0	NaN	0	503230.5	5092.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	5ecffc4c-c7a4-4982-8ce5-90d1ca37c01f	RAmb	RAmb	MBsta	Geometry	4116.7	3200.6	165	0	348	0	0	0	NaN	0	101809.9	1856.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	89dac6a7-d88e-48de-84fd-95388c450f73	DR	DR	RAmb	Geometry	4116.7	3200.6	872	0	165	0	0	0	NaN	0	101809.9	1856.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	293deb18-9376-4e2f-95fa-e510ee241c10	VS	VS	root	Geometry	4211.1	2178.5	73	0	997	0	0	0	NaN	0	442220.2	2582.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	010237de-5676-4fa1-9390-0dc0a22d1964	AQ	AQ	VS	Geometry	4211.1	2178.5	140	0	73	0	0	0	NaN	0	442220.2	2582.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	1c629b9c-a563-4969-924b-32f965275763	fiber tracts	fiber tracts	root	Geometry	4417.2	4510.3	1009	0	997	5	4	1	20	0.3227	3098996.9	46598.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	94a67159-49b3-46b6-8b3a-f2d63bd21d4c	cbf	cbf	fiber tracts	Geometry	4239.2	3782.5	960	0	1009	0	0	0	NaN	0	886269.9	14488.7
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	f27a2ef5-1c7d-452f-aa7f-a5a54159d9f7	arb	arb	cbf	Geometry	2276.7	3242.1	728	0	960	0	0	0	NaN	0	18619.6	1824.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	5e7292e4-cafb-4e93-ace3-5c9ba923acd1	cbp	cbp	cbf	Geometry	4281.3	3794.1	752	0	960	0	0	0	NaN	0	867650.3	13874.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	fc202a7f-c5f0-4cf7-815a-fe636db191ce	scp	scp	cbp	Geometry	4059	3692.1	326	0	752	0	0	0	NaN	0	385589.8	9321.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	9c872350-fa73-4d3d-ba2d-530b61428bd0	sctv	sctv	scp	Geometry	3983.3	4649.6	866	0	326	0	0	0	NaN	0	132670.3	4254.8
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a3bff57c-bac4-4687-851a-c61caa162d4f	mcp	mcp	cbp	Geometry	4459.1	3875.6	78	0	752	0	0	0	NaN	0	482060.5	4553.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6a9f166f-4397-4b6a-acdf-e40bc227208c	cm	cm	fiber tracts	Geometry	4584.1	4638.3	967	0	1009	5	4	1	20	0.5513	1814037.4	26451.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	b8dc418a-5e1a-4e40-9799-14e880582bb0	drt	drt	cm	Geometry	4126.5	5827	792	0	967	0	0	0	NaN	0	167799.9	2435.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6b69005c-23c6-4dd7-814d-d9fc294e0a11	cett	cett	drt	Geometry	4126.5	5827	932	0	792	0	0	0	NaN	0	167799.9	2435.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	f4bf0321-dbad-4ee3-b1b8-19e13f76765c	ml	ml	cett	Geometry	4126.5	5827	697	0	932	0	0	0	NaN	0	167799.9	2435.2
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	a2317df5-611e-4a92-ba80-0a456b02c8a8	IIIn	IIIn	cm	Geometry	4109.3	3475.8	832	0	967	0	0	0	NaN	0	22611.6	925.58
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	51094c50-66e7-40d1-adfd-3748effce80b	mlf	mlf	IIIn	Geometry	4109.3	3475.8	62	0	832	0	0	0	NaN	0	22611.6	925.58
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	4bbab426-066c-45fa-bc00-54c2817e404f	Vn	Vn	cm	Geometry	4167.1	5005.9	901	0	967	0	0	0	NaN	0	610495.6	5557.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6255a6ba-b873-4a5a-94b6-63a9ac5e7b3c	sV	sV	Vn	Geometry	4167.1	5005.9	229	0	901	0	0	0	NaN	0	610495.6	5557.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	f917cdd6-deda-4c54-b548-f37170c96369	sptV	sptV	sV	Geometry	1773.6	4583.4	794	0	229	0	0	0	NaN	0	17033.3	526.16
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	4a69a454-c6a5-488b-a89b-086885b57b40	IVn	IVn	cm	Geometry	4300.5	2655.7	911	0	967	5	4	1	20	222.14	4501.6	355.93
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	50af9999-6189-4804-b21d-ca57a9ba73ac	VIIIn	VIIIn	cm	Geometry	4924.6	4253	933	0	967	0	0	0	NaN	0	1008628.8	17177.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	8a1b4d54-d39b-4361-b0d6-dd19f0e2416c	cVIIIn	cVIIIn	VIIIn	Geometry	4924.6	4253	948	0	933	0	0	0	NaN	0	1008628.8	17177.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	63811048-0ec4-4cd3-8baf-0e78a85581b0	tb	tb	cVIIIn	Geometry	4018.5	6390.6	841	0	948	0	0	0	NaN	0	272144.6	5699.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	9d5b4d2d-f865-4b1d-92b1-13412fc17245	ll	ll	cVIIIn	Geometry	5235.2	3715.5	658	0	948	0	0	0	NaN	0	651610.9	8254
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	4769319a-4fab-46e2-a331-f1ab264ccacc	bic	bic	cVIIIn	Geometry	5447.2	1526.4	482	0	948	0	0	0	NaN	0	84876	3223.6
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	8242f4ff-bcfe-42b0-a69c-ecc64e410d19	lfbs	lfbs	fiber tracts	Geometry	4108.1	6230.6	983	0	1009	0	0	0	NaN	0	182379.4	2336.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	50fe7a54-6368-4cf2-8049-8bd3aa5a327d	cst	cst	lfbs	Geometry	4108.1	6230.6	784	0	983	0	0	0	NaN	0	182379.4	2336.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	7ab5c9a5-0998-4d6e-8302-09abdce65292	py	py	cst	Geometry	4108.1	6230.6	190	0	784	0	0	0	NaN	0	182379.4	2336.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	8bd6fe15-3884-4c32-a6bb-167a3f81a5d7	eps	eps	fiber tracts	Geometry	4007.5	4968.3	1000	0	1009	0	0	0	NaN	0	216310.1	4169.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	80cba319-c5cc-4fa4-ae82-226e140efcd1	rust	rust	eps	Geometry	3945.6	5244.5	863	0	1000	0	0	0	NaN	0	137073.5	2443
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	55a08236-d09c-4d8b-bb9c-0e671fa87794	tsp	tsp	eps	Geometry	4114.6	4490.6	877	0	1000	0	0	0	NaN	0	79236.6	1726.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	6a315e6f-a615-4cde-a2e5-83a660b00130	tspc	tspc	tsp	Geometry	4114.6	4490.6	1043	0	877	0	0	0	NaN	0	79236.6	1726.4
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	560fdd49-29b4-4958-8eb2-519794e57fdb	dmPAG		Image	Polygon	4262.6	1443.6	NaN	NaN	NaN	18	6	12	66.67	28.24	424927.9	2685.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	cc4e3faa-6557-4302-9220-9e3bdbf6db76	dlPAG-l		Image	Polygon	3841.7	1890.4	NaN	NaN	NaN	13	9	4	30.77	33.84	118202.3	1449.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	00436e3b-0080-4a0e-b090-d30cf61f4d15	dlPAG-r		Image	Polygon	4707.1	1852.4	NaN	NaN	NaN	76	20	56	73.68	275.93	202953.2	1844.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	57f70807-2a98-4375-a1fd-0c3ffd6b281c	lPAG-l		Image	Polygon	3628.1	2302.4	NaN	NaN	NaN	292	138	154	52.74	634.33	242777.4	2100.9
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	823a6f89-fc28-43cd-b8c3-d6986d6c6ec3	lPAG-r		Image	Polygon	4850.3	2287.7	NaN	NaN	NaN	199	81	118	59.3	465.95	253245.8	2032.3
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	18b89a7e-d549-424f-8be2-511cb44fa6ab	vlPAG-l		Image	Polygon	3774	2755.4	NaN	NaN	NaN	268	202	66	24.63	251.45	262478.9	2951.5
+JKBY11.1b_A4_Scan1.qptiff - resolution #1_Region 3.ome.tif	8c2310b2-a9cc-4f58-ba60-9976a7e31092	vlPAG-r		Image	Polygon	4545.6	2711.6	NaN	NaN	NaN	280	199	81	28.93	270.6	299338.9	3169.2

@@ -1,0 +1,8 @@
+Image	Name	Class	Parent	ROI
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Positive	Positive	dmPAG	Polygon
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Negative	Negative	vlPAG-r	Polygon
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Negative	Negative	vlPAG-r	Polygon
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Positive	Positive	vlPAG-r	Polygon
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Negative	Negative	dlPAG-l	Polygon
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Negative	Negative	dlPAG-l	Polygon
+JKAY22.3e_1_Scan2_[5109,59637]_component_data_merged_Region 1.ome.tif	Positive	Positive	vlPAG-l	Polygon

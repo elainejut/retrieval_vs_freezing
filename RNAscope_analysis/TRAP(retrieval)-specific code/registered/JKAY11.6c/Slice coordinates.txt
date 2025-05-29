@@ -1,0 +1,3 @@
+Slice order is correct
+First slice Distance from Bregma - 3.8 mm
+Last slice Distance from Bregma - 5.1 mm

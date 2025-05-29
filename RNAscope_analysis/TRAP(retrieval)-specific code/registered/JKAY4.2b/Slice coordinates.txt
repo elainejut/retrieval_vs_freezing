@@ -1,0 +1,5 @@
+Slice order is corrected - from 1. to 11.
+First slice Distance from Bregma - 4.2 mm
+Last slice Distance from Bregma - 5.0 mm
+
+Note!!! Only one side - right should be used in this animal (left side doesn't have an expression) - therefore no need to average between both sides.

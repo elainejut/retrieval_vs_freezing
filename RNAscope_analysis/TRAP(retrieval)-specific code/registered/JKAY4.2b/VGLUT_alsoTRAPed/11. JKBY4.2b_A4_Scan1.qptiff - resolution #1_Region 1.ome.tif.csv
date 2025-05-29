@@ -1,0 +1,122 @@
+Image	Object ID	Object type	Name	Classification	Parent	ROI	Centroid X µm	Centroid Y µm	ID	Side	Parent ID	Num Detections	Num Negative	Num Positive	Positive %	Num Positive per mm^2	Area µm^2	Perimeter µm
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1c74d3b2-9a00-4ddc-971b-688b06f4e966	Annotation	root	root	Root object (Image)	Geometry	4873	3101.8	997	0	NaN	2313	1718	595	25.72	14.55	40895541.9	42181.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	032c92eb-0e86-49b8-ad4d-693a52d4252b	Annotation	grey	grey	root	Geometry	4864.4	3040.8	8	0	997	2306	1711	595	25.8	16.46	36157124.5	95550.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c4846f54-e897-403c-b368-81c44ac58d38	Annotation	CB	CB	grey	Geometry	5724.4	3225.3	512	0	8	0	0	0	NaN	0	4554000.8	19427.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	0d5e3d0c-cecd-4010-8ddd-6775801289c1	Annotation	CBX	CBX	CB	Geometry	5785.5	3222.6	528	0	512	0	0	0	NaN	0	4247409.1	17027.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	6734578f-4083-4f19-8eea-57ecacfac5d9	Annotation	HEM	HEM	CBX	Geometry	6012	3366.8	1073	0	528	0	0	0	NaN	0	2783994.4	14127.9
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f4a64be1-69fa-4f8f-9668-a2670ed46efa	Annotation	PFL	PFL	HEM	Geometry	7446.3	3758.7	1041	0	1073	0	0	0	NaN	0	107304.5	2176.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	a2eeaa28-3cb9-4ef8-930b-4d3519e0d958	Annotation	FL	FL	HEM	Geometry	5673.4	4125.2	1049	0	1073	0	0	0	NaN	0	1351355.9	6770
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	571d5460-a71c-4761-87be-c50a0bf4fd43	Annotation	SIM	SIM	HEM	Geometry	6241.2	2561.8	1007	0	1073	0	0	0	NaN	0	1325334	6891.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e29963c6-e57b-4cdb-93d6-1a1e06caedcb	Annotation	VERM	VERM	CBX	Geometry	5354.7	2948.2	645	0	528	0	0	0	NaN	0	1463414.6	7776.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	a3caecc4-815d-44ea-ba0b-30e51cec2095	Annotation	CUL	CUL	VERM	Geometry	5354.7	2948.2	928	0	645	0	0	0	NaN	0	1463414.6	7776.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	04333cb8-1c3f-4cc4-a9c6-b0d59767a378	Annotation	CUL4, 5	CUL4, 5	CUL	Geometry	5354.7	2948.2	1091	0	928	0	0	0	NaN	0	1463414.6	7776.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	fb844f58-5c0f-4742-8d06-444ec4821047	Annotation	CH	CH	grey	Geometry	4232.9	1539.7	567	0	8	0	0	0	NaN	0	5954183.9	17524.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	71a4ff54-8834-47a2-aff8-ba2c10576cea	Annotation	CTX	CTX	CH	Geometry	4232.9	1539.7	688	0	567	0	0	0	NaN	0	5954183.9	17524.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c8f12685-6f29-48ce-bfef-87c82ec8a942	Annotation	CTXpl	CTXpl	CTX	Geometry	4232.9	1539.7	695	0	688	0	0	0	NaN	0	5954183.9	17524.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	270df386-15fa-47dc-9f23-cc06be84e1b2	Annotation	Isocortex	Isocortex	CTXpl	Geometry	4311.4	747.48	315	0	695	0	0	0	NaN	0	2281277.9	11750.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e82af18a-fb9f-497f-a5b3-0c9efdbeefb2	Annotation	VIS	VIS	Isocortex	Geometry	4343.2	766.13	669	0	315	0	0	0	NaN	0	1993247.1	12184.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	22045a41-df88-4aca-858c-8db33188faa1	Annotation	VISpor	VISpor	VIS	Geometry	813.8	873.4	312782628	0	669	0	0	0	NaN	0	98188.6	1977.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	fde01f14-4265-45db-8868-6ec98fd2a5a7	Annotation	VISpor2/3	VISpor2/3	VISpor	Geometry	834.11	882.73	312782636	0	312782628	0	0	0	NaN	0	17959.7	735.97
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	8086b940-289e-4764-ad43-7f3766a92a72	Annotation	VISpor1	VISpor1	VISpor	Geometry	809.28	871.37	312782632	0	312782628	0	0	0	NaN	0	80228.8	1905.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	3414dabb-dd8d-4afd-892f-9b36d652ec2b	Annotation	VISp	VISp	VIS	Geometry	4327.9	468.87	385	0	669	0	0	0	NaN	0	810021.3	6341.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	de42724f-8766-4592-8134-552b0f9742da	Annotation	VISp2/3	VISp2/3	VISp	Geometry	2114.8	406.19	821	0	385	0	0	0	NaN	0	205161	2086.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	886115ac-1f67-464b-9c87-ecd357ae1f1d	Annotation	VISp1	VISp1	VISp	Geometry	5078.5	490.13	593	0	385	0	0	0	NaN	0	604860.3	6376.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	726eccd7-6195-45cf-b628-5e8143239818	Annotation	VISpl	VISpl	VIS	Geometry	4674.1	978.34	425	0	669	0	0	0	NaN	0	1085013.4	7338.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1205c34c-ac2f-4b15-8c12-e8bb91015d77	Annotation	VISpl2/3	VISpl2/3	VISpl	Geometry	1604	710.81	269	0	425	0	0	0	NaN	0	389499.8	3111.6
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	cb05bcf0-1fee-45ac-8271-660e0a5c61e5	Annotation	VISpl1	VISpl1	VISpl	Geometry	6393.4	1128.2	750	0	425	0	0	0	NaN	0	695513.5	6788.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e785c29e-0043-4755-a20c-b9d24eed7158	Annotation	RSP	RSP	Isocortex	Geometry	4091.4	618.39	254	0	315	0	0	0	NaN	0	288030.8	4251.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	5f8b07a7-7275-464d-a78b-8b6d1290f172	Annotation	RSPagl	RSPagl	RSP	Geometry	4091.4	618.39	894	0	254	0	0	0	NaN	0	288030.8	4251.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	8f5329fa-029f-49d7-9191-b92ac4069bd8	Annotation	RSPagl1	RSPagl1	RSPagl	Geometry	4361.8	626.18	671	0	894	0	0	0	NaN	0	249963.1	3993.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	eef65b8a-1639-4e9b-b056-667d61faf327	Annotation	RSPagl2/3	RSPagl2/3	RSPagl	Geometry	2316.1	567.66	965	0	894	0	0	0	NaN	0	38067.9	997.87
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	bdeb7de1-4d5d-40ce-859d-375a5a8a0ef2	Annotation	HPF	HPF	CTXpl	Geometry	4184.1	2031.8	1089	0	695	0	0	0	NaN	0	3672906	11684
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	2cb87c93-f913-4d16-9511-a9d92ae1fd65	Annotation	RHP	RHP	HPF	Geometry	4184.1	2031.8	822	0	1089	0	0	0	NaN	0	3672906	11684
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c864f032-cef2-4cfb-a156-71d03de03900	Annotation	PAR	PAR	RHP	Geometry	5376.6	1435	843	0	822	0	0	0	NaN	0	443374.1	5299.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	8c56585a-7450-4371-82d8-47a294879a0e	Annotation	ENT	ENT	RHP	Geometry	4020.3	2113.7	909	0	822	0	0	0	NaN	0	3229531.9	10330.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	6e83adfd-e587-42fe-bc83-8b95dbb73299	Annotation	ENTm	ENTm	ENT	Geometry	4020.3	2113.7	926	0	909	0	0	0	NaN	0	3229531.9	10330.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	030fe66b-2550-44c8-a2f8-dc5335c3e953	Annotation	ENTm1	ENTm1	ENTm	Geometry	5361.9	2343.7	526	0	926	0	0	0	NaN	0	1898759.6	14909.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	be99d98c-d782-456a-b11c-0e327a18f521	Annotation	ENTm2	ENTm2	ENTm	Geometry	2151.1	1792.8	543	0	926	0	0	0	NaN	0	1284206.1	7244.6
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e412a66e-ac36-4018-baf9-72837122989a	Annotation	ENTm3	ENTm3	ENTm	Geometry	847.88	1583.5	664	0	926	0	0	0	NaN	0	46348.2	903.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	3f541881-94fe-46a6-b67a-b232276bac51	Annotation	BS	BS	grey	Geometry	4858.4	3356.6	343	0	8	2306	1711	595	25.8	23.2	25649011	65058
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	a0605c78-2e7a-42fb-a070-466c840ac0cb	Annotation	HB	HB	BS	Geometry	4730.3	4486.4	1065	0	343	6	6	0	0	0	14973107.4	55209.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	338e7b19-6771-4363-9cc7-a7e3b28a7e37	Annotation	P	P	HB	Geometry	4680.5	4419.6	771	0	1065	6	6	0	0	0	13471997.9	42775.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1154d8b3-3c11-485b-a54b-e2ecedb636cc	Annotation	P-sat	P-sat	P	Geometry	4816.3	3459.6	1117	0	771	5	5	0	0	0	818581.4	6697.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f95f549f-083a-48f8-ae80-65790454f9a0	Annotation	LDT	LDT	P-sat	Geometry	4898.4	3225.2	162	0	1117	5	5	0	0	0	623027	4328.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	7f0dafdc-c247-441e-9f17-5208d5494988	Annotation	RPO	RPO	P-sat	Geometry	4555.1	4206.5	238	0	1117	0	0	0	NaN	0	195553.2	2369
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	409867ef-aff4-4f49-af6f-3287eb6941a8	Annotation	P-sen	P-sen	P	Geometry	4850.2	4307.7	1132	0	771	0	0	0	NaN	0	3888707.8	23169.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	6641c83f-b04c-46d9-841a-d93f475aacc8	Annotation	PSV	PSV	P-sen	Geometry	5074.8	4635	7	0	1132	0	0	0	NaN	0	1452701.2	7735.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	fa9d25ee-6aa8-4b89-90ea-4ee733093012	Annotation	PB	PB	P-sen	Geometry	4986.5	3363.5	867	0	1132	0	0	0	NaN	0	1629853.2	11041.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f0ec7d2b-e148-4a49-8243-f9ba68daabab	Annotation	KF	KF	PB	Geometry	5110.7	3728	123	0	867	0	0	0	NaN	0	250701.3	2929
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	94b387ed-93ea-4796-bd50-509367874ec6	Annotation	SOC	SOC	P-sen	Geometry	4170.1	5626.9	398	0	1132	0	0	0	NaN	0	806153.4	5656.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e8c88545-97c3-4315-b37a-9a99cf27ac16	Annotation	SOCm	SOCm	SOC	Geometry	4053.2	5632.1	105	0	398	0	0	0	NaN	0	180029.7	2386.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f93b88ca-9920-49bf-bd9a-ae16d5980f2e	Annotation	SOCl	SOCl	SOC	Geometry	4263.3	5554	114	0	398	0	0	0	NaN	0	437777.3	3560.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	3ff21a33-afb9-475e-a3fd-a7c227435d10	Annotation	POR	POR	SOC	Geometry	4065.1	5791.4	122	0	398	0	0	0	NaN	0	188346.4	3676.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	b9ff6f42-e094-4669-b38a-1c197839d1a4	Annotation	P-mot	P-mot	P	Geometry	4548.3	4540	987	0	771	1	1	0	0	0	5747223.7	23152
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	3ee045b5-3e7e-408c-b525-4243a190898f	Annotation	SUT	SUT	P-mot	Geometry	4926.6	3896.4	534	0	987	0	0	0	NaN	0	383801.8	4353
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	37d1be7a-abeb-4b4f-a89c-62539ba7466e	Annotation	PRNc	PRNc	P-mot	Geometry	4382	4797.2	1093	0	987	0	0	0	NaN	0	3604308.7	13248.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	4d07d561-18c8-42f7-9412-32f56c0a0012	Annotation	V	V	P-mot	Geometry	4889.5	4346.2	621	0	987	0	0	0	NaN	0	699193	4604.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f704a7f4-9bc1-4c87-ab15-31b5a673ec64	Annotation	DTN	DTN	P-mot	Geometry	4835.5	3398.4	880	0	987	0	0	0	NaN	0	155767.6	2127
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	26a5c8e1-1784-463b-88d6-c2bcdbe0f354	Annotation	PCG	PCG	P-mot	Geometry	4797.7	3512.4	898	0	987	1	1	0	0	0	261947.2	4936.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	df267910-32f4-4358-94cb-9042eab72190	Annotation	P5	P5	P-mot	Geometry	4677.3	4327.4	549009215	0	987	0	0	0	NaN	0	408618.1	4451
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1b6b0191-7e4a-4a62-8863-06cb4178570f	Annotation	I5	I5	P-mot	Geometry	5424.9	4368.9	549009227	0	987	0	0	0	NaN	0	99327.2	2247.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	8cbfea20-b64d-4d59-b0bc-6b024d0cde05	Annotation	Acs5	Acs5	P-mot	Geometry	4338.5	4565.4	549009219	0	987	0	0	0	NaN	0	56124.2	1268.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	d410b657-09a2-49c0-bd08-82d99ff408c5	Annotation	PC5	PC5	P-mot	Geometry	4262.2	4600.9	549009223	0	987	0	0	0	NaN	0	78135.7	1878.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	d6de1802-343d-4634-9e81-f6d0977dcfc2	Annotation	MY	MY	HB	Geometry	5176.5	5085.4	354	0	1065	0	0	0	NaN	0	1501448.2	17629.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e12ce1d5-8276-4d16-b042-cffd6afc1778	Annotation	MY-sat	MY-sat	MY	Geometry	4120	5385.4	379	0	354	0	0	0	NaN	0	61487.9	1297.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	03d372ec-8972-425c-83d6-711dd492553b	Annotation	RM	RM	MY-sat	Geometry	4120	5385.4	206	0	379	0	0	0	NaN	0	61487.9	1297.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	0b94b3d7-8f64-4b44-bbd7-21d0db871289	Annotation	MY-sen	MY-sen	MY	Geometry	5335.7	4942.9	386	0	354	0	0	0	NaN	0	815011.3	7868.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	df971ac1-d3b8-4385-9e58-567a0d0ce6bf	Annotation	CN	CN	MY-sen	Geometry	5558.1	4821.1	607	0	386	0	0	0	NaN	0	700869.9	5831.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c124fd9a-db77-41d3-9256-24cce73d12fd	Annotation	VCO	VCO	CN	Geometry	5558.1	4821.1	101	0	607	0	0	0	NaN	0	700869.9	5831.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	803861d8-8192-4714-a5ad-9a3844ec2bdd	Annotation	NTB	NTB	MY-sen	Geometry	3970.7	5690.5	642	0	386	0	0	0	NaN	0	114141.4	2037.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	ea5b40c4-e8d7-4a7c-8d7e-08d27ea1d151	Annotation	MB	MB	BS	Geometry	5038.2	1772.2	313	0	343	2300	1705	595	25.87	55.73	10677144.8	31176
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	21ecc9d0-ec2c-4a04-bd6b-b4c0f9859871	Annotation	MBmot	MBmot	MB	Geometry	4957.7	2327.1	323	0	313	2292	1697	595	25.96	134.6	4420574	21894.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	824972ed-749d-4294-a98c-c4d41f646d1c	Annotation	PAG	PAG	MBmot	Geometry	5013.5	2156.3	795	0	323	2292	1697	595	25.96	176.98	3361954.6	14387
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	ab3c6590-5c2f-43d5-a445-afe07990ab28	Annotation	SCm	SCm	MBmot	Geometry	4291.8	1333	294	0	323	0	0	0	NaN	0	0.7526	35.13
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	8cbf4cd9-c101-4962-b45f-14a0adfd60e1	Annotation	SCdw	SCdw	SCm	Geometry	4291.8	1333	42	0	294	0	0	0	NaN	0	0.7526	35.13
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	bdc3caa8-47cd-46a9-8118-25b455134f86	Annotation	CUN	CUN	MBmot	Geometry	4997.3	2464.8	616	0	323	0	0	0	NaN	0	702636.9	5052.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	7066b64d-715e-4dc6-8a64-b52a4280b567	Annotation	MRN	MRN	MBmot	Geometry	4353	3668.5	128	0	323	0	0	0	NaN	0	355981.8	4370.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c0b22049-1ab8-4912-b70d-649f901c8676	Annotation	MBsen	MBsen	MB	Geometry	5127.9	1243.9	339	0	313	0	0	0	NaN	0	4193225.9	11423.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c3a45311-c452-4cdb-9928-d45f2fa6d00a	Annotation	IC	IC	MBsen	Geometry	5127.9	1243.9	4	0	339	0	0	0	NaN	0	4193225.9	11423.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1d253a74-6f50-4f65-9c17-992c87cb160b	Annotation	ICc	ICc	IC	Geometry	5197.2	1556.4	811	0	4	0	0	0	NaN	0	1303580.6	8022.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	825d947c-3f76-4d10-9468-0f57efe9b131	Annotation	ICd	ICd	IC	Geometry	5063.9	1013.1	820	0	4	0	0	0	NaN	0	1727185.8	8384.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	52cd4e75-c6e6-4ab7-90d4-d33bfd863323	Annotation	ICe	ICe	IC	Geometry	5145.1	1236.5	828	0	4	0	0	0	NaN	0	1162459.6	9277.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	0464b736-382e-4206-baa1-8a90b5d4ad27	Annotation	MBsta	MBsta	MB	Geometry	4771.7	3506.4	348	0	313	0	0	0	NaN	0	137529.8	1799.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	16c9f70f-77d7-4e66-a4ae-bcae50d84806	Annotation	RAmb	RAmb	MBsta	Geometry	4771.7	3506.4	165	0	348	0	0	0	NaN	0	137529.8	1799.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	33d3fb42-1746-4ce1-9021-81c457455ff8	Annotation	DR	DR	RAmb	Geometry	4771.7	3506.4	872	0	165	0	0	0	NaN	0	137529.8	1799.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1ff6b086-9e5f-4389-9212-40cd7dbe10a9	Annotation	VS	VS	root	Geometry	5015.5	2341.5	73	0	997	0	0	0	NaN	0	1515892.7	4568.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	83889944-8cf8-47d5-8e0e-2f51ef197e45	Annotation	AQ	AQ	VS	Geometry	5015.5	2341.5	140	0	73	0	0	0	NaN	0	1515892.7	4568.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	439e5a37-2040-4f4d-a3f2-c68009460aab	Annotation	fiber tracts	fiber tracts	root	Geometry	4919	4234.2	1009	0	997	7	7	0	0	0	3084127.7	53003
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	5b767b3e-45a8-41b0-9660-bde4624f87f1	Annotation	cbf	cbf	fiber tracts	Geometry	5477.3	3729.8	960	0	1009	0	0	0	NaN	0	992928.3	18051
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	7ea2851c-e47c-43e1-8e44-62eb1a6e9c37	Annotation	arb	arb	cbf	Geometry	6896.2	3711	728	0	960	0	0	0	NaN	0	233044.7	8614.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	5930445c-2d0a-432c-ae7d-7eda429c1b22	Annotation	cbp	cbp	cbf	Geometry	5042.2	3735.5	752	0	960	0	0	0	NaN	0	759883.6	13868.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e08f5482-6db7-4ce5-bc5b-c3ab34411881	Annotation	scp	scp	cbp	Geometry	4845	3772.6	326	0	752	0	0	0	NaN	0	413323.6	10413
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	fbeb6afb-8596-4ba3-ac7c-ff8e5b9a505b	Annotation	sctv	sctv	scp	Geometry	4633	4930.2	866	0	326	0	0	0	NaN	0	119973.5	4357.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	fe33990b-beca-4852-85e2-7bcdd264a6a8	Annotation	mcp	mcp	cbp	Geometry	5277.4	3691.2	78	0	752	0	0	0	NaN	0	346560	3455.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	9fae7e9a-b34c-476c-86bd-b493d5c01827	Annotation	cm	cm	fiber tracts	Geometry	4742.2	4257	967	0	1009	7	7	0	0	0	1705352.6	31132.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	ab20bdf0-35b3-405e-8766-1cbe9a4fb22b	Annotation	drt	drt	cm	Geometry	4031.8	5614.6	792	0	967	0	0	0	NaN	0	85471.8	1579.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	73d4c9d2-65ca-4c76-9bea-ae68711a675f	Annotation	cett	cett	drt	Geometry	4031.8	5614.6	932	0	792	0	0	0	NaN	0	85471.8	1579.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	6bbddb78-a42b-4c5e-9297-994c657d23a2	Annotation	ml	ml	cett	Geometry	4031.8	5614.6	697	0	932	0	0	0	NaN	0	85471.8	1579.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	35594930-f41e-4af6-8553-b36a0a149752	Annotation	VIIn	VIIn	cm	Geometry	5308	5394.5	798	0	967	0	0	0	NaN	0	42190.6	1073
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	5f2aa44b-bb2d-4006-bc64-f906fe779571	Annotation	IIIn	IIIn	cm	Geometry	4625.4	3996.9	832	0	967	0	0	0	NaN	0	26171.1	1095.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	dd538b54-d461-49d8-8ead-c907a18e1f1a	Annotation	mlf	mlf	IIIn	Geometry	4625.4	3996.9	62	0	832	0	0	0	NaN	0	26171.1	1095.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	a3734df8-915c-4ed6-b4dc-9880d6e001a8	Annotation	Vn	Vn	cm	Geometry	4983.2	5048	901	0	967	0	0	0	NaN	0	651803	6778.9
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	9e719dbb-efb9-40c8-b66e-c9017cddf2fb	Annotation	sV	sV	Vn	Geometry	4983.2	5048	229	0	901	0	0	0	NaN	0	651803	6778.9
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f6dc459b-f030-421e-add6-fc9425ec2fb0	Annotation	sptV	sptV	sV	Geometry	4983.2	5048	794	0	229	0	0	0	NaN	0	651803	6778.9
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	bf4d4188-3d6a-46cf-b518-f5ea39e2a5bd	Annotation	IVn	IVn	cm	Geometry	4823.6	2799	911	0	967	0	0	0	NaN	0	5909.6	430.96
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	c13a3731-ff4e-4db8-b8ee-61a6a9d1e05f	Annotation	VIIIn	VIIIn	cm	Geometry	4610.7	3513.9	933	0	967	7	7	0	0	0	893806.5	23066.4
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	f18346ee-13e4-44f4-89b9-b41264127474	Annotation	vVIIIn	vVIIIn	VIIIn	Geometry	5720.1	5348.6	413	0	933	0	0	0	NaN	0	160573.1	3024.9
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	d54c42d6-51d6-401c-b65a-a6712f931bfb	Annotation	cVIIIn	cVIIIn	VIIIn	Geometry	4367.7	3112.1	948	0	933	7	7	0	0	0	733233.5	20041.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	500d9543-0830-4647-b854-a625f5dd7e0f	Annotation	tb	tb	cVIIIn	Geometry	4007.1	5735.8	841	0	948	0	0	0	NaN	0	289571.9	10495.9
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	64bcee81-40ef-46d2-8aa5-5aa90b63b0a7	Annotation	cic	cic	cVIIIn	Geometry	5136.8	1095.8	633	0	948	7	7	0	0	0	244660.9	3322.3
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	2b9c13b0-719e-413a-913d-a724215c4ddb	Annotation	ll	ll	cVIIIn	Geometry	2616.2	2243.8	658	0	948	0	0	0	NaN	0	93086.5	1806.5
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	da46b5db-0b53-4ca1-8642-e2b34a6c0b47	Annotation	bic	bic	cVIIIn	Geometry	5117.6	1359.8	482	0	948	0	0	0	NaN	0	105915.2	4416.7
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	2cd02cc9-c997-41ca-9f09-f9e3de060612	Annotation	lfbs	lfbs	fiber tracts	Geometry	3938.4	5850.9	983	0	1009	0	0	0	NaN	0	151454	2339.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	993548e1-610c-427b-a6c9-73a64156cb3b	Annotation	cst	cst	lfbs	Geometry	3938.4	5850.9	784	0	983	0	0	0	NaN	0	151454	2339.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	112d3c4e-5fc9-4580-a3f5-64c5b71b52fe	Annotation	py	py	cst	Geometry	3938.4	5850.9	190	0	784	0	0	0	NaN	0	151454	2339.8
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	e2b5c0b9-3e40-41e7-bc21-32c930b1a005	Annotation	eps	eps	fiber tracts	Geometry	4473.3	5161.4	1000	0	1009	0	0	0	NaN	0	234392.7	4763.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	82412c73-0779-4874-9621-6b97c99e8e9d	Annotation	rust	rust	eps	Geometry	4516.2	5556.6	863	0	1000	0	0	0	NaN	0	135248.7	2355
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	2e4a6d24-f06e-440b-8e51-c24f0e62939e	Annotation	tsp	tsp	eps	Geometry	4414.6	4622.2	877	0	1000	0	0	0	NaN	0	99144	2408.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	ba3fb17b-372f-41e8-9aa7-0c940d2c5fba	Annotation	tspc	tspc	tsp	Geometry	4414.6	4622.2	1043	0	877	0	0	0	NaN	0	99144	2408.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	1e736e69-734b-4879-a77b-32ee124404ee	Annotation	dmPAG		Root object (Image)	Polygon	5090.8	1431.9	NaN	NaN	NaN	899	887	12	1.335	16.85	712008.7	3832.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	6ab770c6-a81f-4955-b058-2937bdc26c8f	Annotation	dlPAG		Root object (Image)	Polygon	5830.6	1736.5	NaN	NaN	NaN	354	255	99	27.97	333.41	296931.7	2253.2
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	fa06c3b6-be5f-4955-9ddc-dc421fe3d8a2	Annotation	lPAG		Root object (Image)	Polygon	6170	2251.4	NaN	NaN	NaN	594	259	335	56.4	663.8	504669.4	2881.1
+JKBY4.2b_A4_Scan1.qptiff - resolution #1_Region 1.ome.tif	24f9744a-daa1-4810-93cf-59aa655a7538	Annotation	vlPAG		Root object (Image)	Polygon	5770	2899.7	NaN	NaN	NaN	466	317	149	31.97	282.9	526681.4	4013.7

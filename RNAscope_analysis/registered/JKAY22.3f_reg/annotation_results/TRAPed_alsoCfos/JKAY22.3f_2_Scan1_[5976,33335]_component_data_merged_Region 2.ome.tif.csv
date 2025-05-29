@@ -1,0 +1,188 @@
+Image	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Allen ID	Parent Allen ID	Side	Num Detections	Num Negative	Num Positive	Positive %	Num Positive per mm^2	Area µm^2	Perimeter µm
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	dlPAG-r	PAG_subregions	Image	Polygon	5633.8	2306.1	NaN	NaN	NaN	112	92	20	17.86	171.83	116392.3	1564.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	lPAG-r	PAG_subregions	Image	Polygon	5708.8	2625.3	NaN	NaN	NaN	196	130	66	33.67	300.85	219376.8	1979.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	vlPAG-r	PAG_subregions	Image	Polygon	5549.3	3039.3	NaN	NaN	NaN	409	291	118	28.85	401.66	293780	2235
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	dlPAG-l	PAG_subregions	Image	Polygon	5088.3	2355	NaN	NaN	NaN	192	137	55	28.65	742.48	74075.6	1201.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	lPAG-l	PAG_subregions	Image	Polygon	5018.4	2663.5	NaN	NaN	NaN	247	162	85	34.41	702.65	120970.7	1592.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	vlPAG-l	PAG_subregions	Image	Polygon	5045.6	3088.5	NaN	NaN	NaN	617	426	191	30.96	727.04	262710.8	2220.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	dmPAG	PAG_subregions	Image	Polygon	5355.7	2087.7	NaN	NaN	NaN	345	253	92	26.67	346.96	265160.9	2046.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Isocortex	Isocortex	Image	Geometry	5421.8	1647	315	695	0	0	0	0	NaN	0	7376006.5	22488.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas	TEa	Isocortex	Geometry	8832.4	2341.8	541	315	0	0	0	0	NaN	0	637133.7	4215.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas, layer 6b	TEa6b	Temporal association areas	Polygon	8617.4	2855	786	541	0	0	0	0	NaN	0	4416.9	356.58
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas, layer 5	TEa5	Temporal association areas	Geometry	8765.4	2549.6	289	541	0	0	0	0	NaN	0	158444	2041
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas, layer 1	TEa1	Temporal association areas	Geometry	8920.7	2128	97	541	0	0	0	0	NaN	0	160415	3473.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas, layer 2/3	TEa2/3	Temporal association areas	Geometry	8863.5	2250.9	1127	541	0	0	0	0	NaN	0	195743.2	3101.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas, layer 6a	TEa6a	Temporal association areas	Polygon	8670.8	2756.9	729	541	0	0	0	0	NaN	0	39773.2	1019.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Temporal association areas, layer 4	TEa4	Temporal association areas	Geometry	8800.9	2349.6	234	541	0	0	0	0	NaN	0	78341.4	2253.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Ectorhinal area	ECT	Isocortex	Geometry	9033.8	3024.9	895	315	0	0	0	0	NaN	0	246122.9	2753.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Ectorhinal area/Layer 6b	ECT6b	Ectorhinal area	Polygon	8716.2	3087.3	1045	895	0	0	0	0	NaN	0	12568.4	851.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Ectorhinal area/Layer 1	ECT1	Ectorhinal area	Polygon	9304.2	3039	836	895	0	0	0	0	NaN	0	40999	1045.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Ectorhinal area/Layer 2/3	ECT2/3	Ectorhinal area	Geometry	9159.9	2999.3	427	895	0	0	0	0	NaN	0	74217.7	1211
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Ectorhinal area/Layer 6a	ECT6a	Ectorhinal area	Geometry	8790	3054.6	977	895	0	0	0	0	NaN	0	42885	1057.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Ectorhinal area/Layer 5	ECT5	Ectorhinal area	Geometry	8954.7	3015	988	895	0	0	0	0	NaN	0	75452.5	1508.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Perirhinal area	PERI	Isocortex	Geometry	8213.8	3331.3	922	315	0	0	0	0	NaN	0	173738.6	2994.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Perirhinal area, layer 1	PERI1	Perirhinal area	Geometry	5640.1	3267.7	540	922	0	0	0	0	NaN	0	40475.1	1501.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Perirhinal area, layer 6a	PERI6a	Perirhinal area	Geometry	8861.3	3366.6	335	922	0	0	0	0	NaN	0	30394.7	908.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Perirhinal area, layer 6b	PERI6b	Perirhinal area	Geometry	8790	3389.2	368	922	0	0	0	0	NaN	0	11377.1	672
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Perirhinal area, layer 2/3	PERI2/3	Perirhinal area	Geometry	9139.5	3349.3	888	922	0	0	0	0	NaN	0	46154.8	1024.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Perirhinal area, layer 5	PERI5	Perirhinal area	Geometry	8990.4	3331.4	692	922	0	0	0	0	NaN	0	45337	1208.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Visual areas	VIS	Isocortex	Geometry	4715.5	1614.7	669	315	0	0	0	0	NaN	0	5108269.6	18326.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	posteromedial visual area	VISpm	Visual areas	Geometry	6012.8	254.29	533	669	0	0	0	0	NaN	0	20328.8	980.45
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	posteromedial visual area, layer 1	VISpm1	posteromedial visual area	Geometry	5781.2	226.35	805	533	0	0	0	0	NaN	0	8968.3	523.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	posteromedial visual area, layer 2/3	VISpm2/3	posteromedial visual area	Geometry	6189.4	268	41	533	0	0	0	0	NaN	0	10525	549.02
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	posteromedial visual area, layer 4	VISpm4	posteromedial visual area	Polygon	6273.8	381.35	501	533	0	0	0	0	NaN	0	835.38	137.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area	VISli	Visual areas	Geometry	6991.3	1905.2	312782574	669	0	0	0	0	NaN	0	249068.7	3763.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area, layer 2/3	VISli2/3	Laterointermediate area	Geometry	6044.7	1828.1	312782582	312782574	0	0	0	0	NaN	0	69178.3	1792.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area, layer 1	VISli1	Laterointermediate area	Geometry	5407.6	1794.7	312782578	312782574	0	0	0	0	NaN	0	47791.7	1629.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area, layer 5	VISli5	Laterointermediate area	Polygon	8203.2	1918	312782590	312782574	0	0	0	0	NaN	0	62306.3	1064.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area, layer 4	VISli4	Laterointermediate area	Geometry	7550.2	1782.2	312782586	312782574	0	0	0	0	NaN	0	24868.1	1106.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area, layer 6b	VISli6b	Laterointermediate area	Polygon	8118	2294.3	312782598	312782574	0	0	0	0	NaN	0	7045.8	439.95
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Laterointermediate area, layer 6a	VISli6a	Laterointermediate area	Geometry	8148.4	2172.1	312782594	312782574	0	0	0	0	NaN	0	37878.4	848.49
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area	VISpor	Visual areas	Geometry	2970.5	2588.8	312782628	669	0	0	0	0	NaN	0	1111237.9	7923.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area, layer 2/3	VISpor2/3	Postrhinal area	Geometry	1679.3	2631.6	312782636	312782628	0	0	0	0	NaN	0	281350.3	4100.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area, layer 1	VISpor1	Postrhinal area	Geometry	996.48	2664.2	312782632	312782628	0	0	0	0	NaN	0	145705.6	3535.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area, layer 5	VISpor5	Postrhinal area	Geometry	3284.8	2565.3	312782644	312782628	0	0	0	0	NaN	0	395082.7	4798
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area, layer 4	VISpor4	Postrhinal area	Geometry	4466.6	2250.8	312782640	312782628	0	0	0	0	NaN	0	56094.2	2435.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area, layer 6b	VISpor6b	Postrhinal area	Geometry	7031.6	2572.4	312782652	312782628	0	0	0	0	NaN	0	28784.9	2174.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postrhinal area, layer 6a	VISpor6a	Postrhinal area	Geometry	4566.2	2616.9	312782648	312782628	0	0	0	0	NaN	0	204220.2	3975.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area	VISp	Visual areas	Geometry	5052.7	1176.5	385	669	0	0	0	0	NaN	0	3019847.3	11616.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area, layer 5	VISp5	Primary visual area	Geometry	5153.9	1272.3	778	385	0	0	0	0	NaN	0	697572	9038.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area, layer 6a	VISp6a	Primary visual area	Geometry	4982.7	1586.1	33	385	0	0	0	0	NaN	0	593503.1	7773.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area, layer 6b	VISp6b	Primary visual area	Geometry	5202.8	1906.5	305	385	0	0	0	0	NaN	0	59463.5	3997.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area, layer 2/3	VISp2/3	Primary visual area	Geometry	5060.4	935.43	821	385	0	0	0	0	NaN	0	823336.5	9343.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area, layer 1	VISp1	Primary visual area	Geometry	4887.9	850.71	593	385	0	0	0	0	NaN	0	413877.1	9077.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Primary visual area, layer 4	VISp4	Primary visual area	Geometry	5108	1130.1	721	385	0	0	0	0	NaN	0	432095.1	8853.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area	VISl	Visual areas	Geometry	5433.2	1842.4	409	669	0	0	0	0	NaN	0	649404.5	5627
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area, layer 4	VISl4	Lateral visual area	Geometry	5240.4	1837.7	573	409	0	0	0	0	NaN	0	101771	2545.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area, layer 6a	VISl6a	Lateral visual area	Geometry	6433	2096.8	74	409	0	0	0	0	NaN	0	94327.8	1896.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area, layer 5	VISl5	Lateral visual area	Geometry	5428.5	1976.3	613	409	0	0	0	0	NaN	0	161596.7	2813.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area, layer 6b	VISl6b	Lateral visual area	Geometry	7828.2	2162.5	121	409	0	0	0	0	NaN	0	10908.1	813.48
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area, layer 1	VISl1	Lateral visual area	Geometry	5052.1	1589	421	409	0	0	0	0	NaN	0	106289.9	2785.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Lateral visual area, layer 2/3	VISl2/3	Lateral visual area	Geometry	5091.9	1717.8	973	409	0	0	0	0	NaN	0	174510.9	2998.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Posterolateral visual area	VISpl	Visual areas	Geometry	2348.4	2440.4	425	669	0	0	0	0	NaN	0	58340.5	1446.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Posterolateral visual area, layer 6a	VISpl6a	Posterolateral visual area	Geometry	2355.8	2446.4	377	425	0	0	0	0	NaN	0	33952.2	957.78
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Posterolateral visual area, layer 5	VISpl5	Posterolateral visual area	Geometry	2215.1	2410.9	902	425	0	0	0	0	NaN	0	12653.4	620.05
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Posterolateral visual area, layer 6b	VISpl6b	Posterolateral visual area	Polygon	2469.2	2455.8	393	425	0	0	0	0	NaN	0	11735.5	1025.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area	RSP	Isocortex	Geometry	5472.3	895.22	254	315	0	0	0	0	NaN	0	1210615.1	8158
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, dorsal part	RSPd	Retrosplenial area	Geometry	5520.3	982.99	879	254	0	0	0	0	NaN	0	867007.7	7503.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, dorsal part, layer 6a	RSPd6a	Retrosplenial area, dorsal part	Geometry	5522.9	1206.9	274	879	0	0	0	0	NaN	0	234850.5	3601.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, dorsal part, layer 5	RSPd5	Retrosplenial area, dorsal part	Geometry	5541.6	1022	610	879	0	0	0	0	NaN	0	273138.3	5062.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, dorsal part, layer 2/3	RSPd2/3	Retrosplenial area, dorsal part	Geometry	5524.5	821.55	434	879	0	0	0	0	NaN	0	159200.2	5475.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, dorsal part, layer 1	RSPd1	Retrosplenial area, dorsal part	Geometry	5485	795.02	442	879	0	0	0	0	NaN	0	199818.6	5951.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, ventral part	RSPv	Retrosplenial area	Geometry	6755.5	1516.5	886	254	0	0	0	0	NaN	0	6633.4	496.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, ventral part, layer 1	RSPv1	Retrosplenial area, ventral part	Polygon	6738.8	1517.4	542	886	0	0	0	0	NaN	0	4605.5	279.12
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, ventral part, layer 2/3	RSPv2/3	Retrosplenial area, ventral part	Geometry	6780.5	1512.6	430	886	0	0	0	0	NaN	0	1544	218.69
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, ventral part, layer 5	RSPv5	Retrosplenial area, ventral part	Polygon	6837	1520.6	687	886	0	0	0	0	NaN	0	484.13	120.99
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, lateral agranular part	RSPagl	Retrosplenial area	Geometry	5323.5	657.18	894	254	0	0	0	0	NaN	0	336974	7430.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, lateral agranular part, layer 5	RSPagl5	Retrosplenial area, lateral agranular part	Geometry	5549.3	651.65	774	894	0	0	0	0	NaN	0	84274.5	2312.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, lateral agranular part, layer 6b	RSPagl6b	Retrosplenial area, lateral agranular part	Polygon	7095.2	1417.3	279	894	0	0	0	0	NaN	0	1284	159.82
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, lateral agranular part, layer 6a	RSPagl6a	Retrosplenial area, lateral agranular part	Geometry	4951.2	1185.8	906	894	0	0	0	0	NaN	0	82398.3	3667.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, lateral agranular part, layer 1	RSPagl1	Retrosplenial area, lateral agranular part	Geometry	5334.1	324.5	671	894	0	0	0	0	NaN	0	62572.7	1791.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Retrosplenial area, lateral agranular part, layer 2/3	RSPagl2/3	Retrosplenial area, lateral agranular part	Geometry	5405.4	438.73	965	894	0	0	0	0	NaN	0	106444.6	2013.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Olfactory areas	OLF	Image	Polygon	8091.1	6387	698	695	0	0	0	0	NaN	0	1626	240.39
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Cortical amygdalar area	COA	Olfactory areas	Polygon	8091.1	6387	631	698	0	0	0	0	NaN	0	1626	240.39
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Cortical amygdalar area, posterior part	COAp	Cortical amygdalar area	Polygon	8091.1	6387	647	631	0	0	0	0	NaN	0	1626	240.39
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Cortical amygdalar area, posterior part, medial zone	COApm	Cortical amygdalar area, posterior part	Polygon	8091.1	6387	663	647	0	0	0	0	NaN	0	1626	240.39
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Prosubiculum	ProS	Image	Polygon	8383.7	3891.1	484682470	822	0	0	0	0	NaN	0	1296743.8	6655.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Postsubiculum	POST	Image	Geometry	5180.8	2133.9	1037	822	0	0	0	0	NaN	0	1046013.7	6494.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Presubiculum	PRE	Image	Geometry	4780.9	3230	1084	822	0	0	0	0	NaN	0	1198214.4	12283.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Parasubiculum	PAR	Image	Geometry	2507.7	4020.8	843	822	0	0	0	0	NaN	0	825116.7	6154.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Hippocampo-amygdalar transition area	HATA	Image	Polygon	7692.6	5478.4	589508447	822	0	0	0	0	NaN	0	163197.4	1930.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Area prostriata	APr	Image	Geometry	5048	1599.5	484682508	822	0	0	0	0	NaN	0	133781.9	2429
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Subiculum	SUB	Image	Geometry	5054.1	4079.5	502	822	0	0	0	0	NaN	0	1850456.6	12107.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	ventricular systems	VS	Image	Polygon	5301.8	2516.6	73	997	0	0	0	0	NaN	0	10777.5	488.56
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cerebral aqueduct	AQ	ventricular systems	Polygon	5301.8	2516.6	140	73	0	0	0	0	NaN	0	10777.5	488.56
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	fiber tracts	fiber tracts	Image	Geometry	5032.5	4862.3	1009	997	0	0	0	0	NaN	0	3882812.1	58503.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cerebellum related fiber tracts	cbf	fiber tracts	Geometry	4531.4	5588.8	960	1009	0	0	0	0	NaN	0	964243.1	12796.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cerebellar peduncles	cbp	cerebellum related fiber tracts	Geometry	4531.4	5588.8	752	960	0	0	0	0	NaN	0	964243.1	12796.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	superior cerebelar peduncles	scp	cerebellar peduncles	Polygon	5212.7	4556.4	326	752	0	0	0	0	NaN	0	126176.3	1392
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	superior cerebellar peduncle decussation	dscp	superior cerebelar peduncles	Polygon	5212.7	4556.4	812	326	0	0	0	0	NaN	0	126176.3	1392
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	middle cerebellar peduncle	mcp	cerebellar peduncles	Geometry	4428.9	5744.2	78	752	0	0	0	0	NaN	0	838066.8	11404.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cranial nerves	cm	fiber tracts	Geometry	4625.5	5384	967	1009	0	0	0	0	NaN	0	1606017.7	28975
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	dorsal roots	drt	cranial nerves	Geometry	5175.6	6065.7	792	967	0	0	0	0	NaN	0	129209.3	1894.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cervicothalamic tract	cett	dorsal roots	Geometry	5175.6	6065.7	932	792	0	0	0	0	NaN	0	129209.3	1894.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	medial lemniscus	ml	cervicothalamic tract	Geometry	5175.6	6065.7	697	932	0	0	0	0	NaN	0	129209.3	1894.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	oculomotor nerve	IIIn	cranial nerves	Geometry	5252	3768.6	832	967	0	0	0	0	NaN	0	41339.2	1643.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	medial longitudinal fascicle	mlf	oculomotor nerve	Geometry	5252	3768.6	62	832	0	0	0	0	NaN	0	41339.2	1643.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	optic nerve	IIn	cranial nerves	Polygon	6944.8	2141.9	848	967	0	0	0	0	NaN	0	11798.9	1223.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	brachium of the superior colliculus	bsc	optic nerve	Polygon	6944.8	2141.9	916	848	0	0	0	0	NaN	0	11798.9	1223.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	trigeminal nerve	Vn	cranial nerves	Geometry	4577.2	5891.1	901	967	0	0	0	0	NaN	0	910787.1	8273.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	motor root of the trigeminal nerve	moV	trigeminal nerve	Geometry	4235.9	5656	93	901	0	0	0	0	NaN	0	76187.9	2692.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	sensory root of the trigeminal nerve	sV	trigeminal nerve	Geometry	4608.4	5912.6	229	901	0	0	0	0	NaN	0	834599.2	5581.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	vestibulocochlear nerve	VIIIn	cranial nerves	Geometry	4468.7	4516.5	933	967	0	0	0	0	NaN	0	512883.8	15940
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cochlear nerve	cVIIIn	vestibulocochlear nerve	Geometry	4468.7	4516.5	948	933	0	0	0	0	NaN	0	512883.8	15940
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	lateral lemniscus	ll	cochlear nerve	Geometry	4315.5	5208.8	658	948	0	0	0	0	NaN	0	369756.1	12378.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	brachium of the inferior colliculus	bic	cochlear nerve	Geometry	4864.3	2728.2	482	948	0	0	0	0	NaN	0	143127.7	3561.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	lateral forebrain bundle system	lfbs	fiber tracts	Geometry	6649.6	3549.4	983	1009	0	0	0	0	NaN	0	492826.6	14777.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	corpus callosum	cc	lateral forebrain bundle system	Geometry	6745.5	2787	776	983	0	0	0	0	NaN	0	290818.3	12665.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	corpus callosum, anterior forceps	fa	corpus callosum	Geometry	6365.8	3068.6	956	776	0	0	0	0	NaN	0	207802.5	10057.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	external capsule	ec	corpus callosum, anterior forceps	Geometry	6365.8	3068.6	579	956	0	0	0	0	NaN	0	207802.5	10057.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	corpus callosum, posterior forceps	fp	corpus callosum	Geometry	7696	2082	971	776	0	0	0	0	NaN	0	83015.8	2786
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	corticospinal tract	cst	lateral forebrain bundle system	Geometry	5519.3	6239.8	784	983	0	0	0	0	NaN	0	121071	2081
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	thalamus related	lfbst	lateral forebrain bundle system	Polygon	7996	2264.6	896	983	0	0	0	0	NaN	0	80937.5	3156
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	optic radiation	or	thalamus related	Polygon	7996	2264.6	484682520	896	0	0	0	0	NaN	0	80937.5	3156
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	medial forebrain bundle system	mfbs	fiber tracts	Geometry	5669.7	3147.7	991	1009	0	0	0	0	NaN	0	386740.7	14993.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	cerebrum related	mfbc	medial forebrain bundle system	Geometry	5716.1	3035.6	768	991	0	0	0	0	NaN	0	349033.3	12992.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	fornix system	fxs	cerebrum related	Geometry	5716.1	3035.6	1099	768	0	0	0	0	NaN	0	349033.3	12992.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	hippocampal commissures	hc	fornix system	Geometry	6565.8	2250.8	618	1099	0	0	0	0	NaN	0	160133.4	2448.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	dorsal hippocampal commissure	dhc	hippocampal commissures	Geometry	6565.8	2250.8	443	618	0	0	0	0	NaN	0	160133.4	2448.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	alveus	alv	fornix system	Geometry	4995.7	3701	466	1099	0	0	0	0	NaN	0	188899.9	10934.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	hypothalamus related	mfsbshy	medial forebrain bundle system	Geometry	5239.9	4184.7	824	991	0	0	0	0	NaN	0	37707.4	2001.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	mammillary related	mfbsma	hypothalamus related	Geometry	5239.9	4184.7	46	824	0	0	0	0	NaN	0	37707.4	2001.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	mammillotegmental tract	mtg	mammillary related	Geometry	5239.9	4184.7	681	46	0	0	0	0	NaN	0	37707.4	2001.6
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	extrapyramidal fiber systems	eps	fiber tracts	Geometry	5216.4	4627.6	1000	1009	0	0	0	0	NaN	0	387423.6	6812.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	rubrospinal tract	rust	extrapyramidal fiber systems	Geometry	5221.3	4880.9	863	1000	0	0	0	0	NaN	0	151943.3	2316.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	tectospinal pathway	tsp	extrapyramidal fiber systems	Geometry	5213.2	4464.1	877	1000	0	0	0	0	NaN	0	235480.2	4495.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	crossed tectospinal pathway	tspc	tectospinal pathway	Geometry	5213.2	4464.1	1043	877	0	0	0	0	NaN	0	235480.2	4495.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	supra-callosal cerebral white matter	scwm	fiber tracts	Geometry	5526.5	1820.8	484682512	1009	0	0	0	0	NaN	0	45258.8	4018.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, lateral part, layer 2	ENTl2	Image	Geometry	3776.7	4563.4	20	918	0	0	0	0	NaN	0	1145567.4	11896.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, lateral part, layer 6a	ENTl6a	Image	Geometry	3128.8	4137.1	28	918	0	0	0	0	NaN	0	1045250	10143.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, lateral part, layer 3	ENTl3	Image	Geometry	3719.5	4491.5	52	918	0	0	0	0	NaN	0	879198.5	11112.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, lateral part, layer 5	ENTl5	Image	Geometry	3758	4414.8	139	918	0	0	0	0	NaN	0	958367.7	10512.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Cerebellum	CB	Image	Geometry	4653.6	5237.5	512	8	0	0	0	0	NaN	0	55483.1	4063.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Brain stem	BS	Image	Geometry	5255.3	3913.4	343	8	0	2118	1491	627	29.6	33.76	18573789.6	44309.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Hindbrain	HB	Brain stem	Geometry	5119.8	5698.1	1065	343	0	0	0	0	NaN	0	6732377.7	26908.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pons	P	Hindbrain	Geometry	5119.8	5698.1	771	1065	0	0	0	0	NaN	0	6732377.7	26908.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pons, behavioral state related	P-sat	Pons	Geometry	5159.1	5220.9	1117	771	0	0	0	0	NaN	0	2498851.5	11391.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pontine reticular nucleus	PRNr	Pons, behavioral state related	Geometry	5151.8	5214.3	146	1117	0	0	0	0	NaN	0	1828877.9	7854.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior central nucleus raphe	CS	Pons, behavioral state related	Polygon	5179.4	5238.4	679	1117	0	0	0	0	NaN	0	669973.1	3691
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pons, sensory related	P-sen	Pons	Geometry	4218.4	5421.1	1132	771	0	0	0	0	NaN	0	907681.2	6634.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Nucleus of the lateral lemniscus	NLL	Pons, sensory related	Geometry	4218.4	5421.1	612	1132	0	0	0	0	NaN	0	907681.2	6634.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pons, motor related	P-mot	Pons	Geometry	5439.5	6239.9	987	771	0	0	0	0	NaN	0	2016947.6	12011.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Tegmental reticular nucleus	TRN	Pons, motor related	Geometry	5347.5	5996.1	574	987	0	0	0	0	NaN	0	994315.7	10066.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pontine gray	PG	Pons, motor related	Geometry	5528.9	6477	931	987	0	0	0	0	NaN	0	1022631.9	7180
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain	MB	Brain stem	Geometry	5332.4	2898.8	313	343	0	2118	1491	627	29.6	52.95	11841456	24178.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain, motor related	MBmot	Midbrain	Geometry	5450.6	2800.8	323	313	0	2114	1488	626	29.61	81.68	7663617.9	21018.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Periaqueductal gray	PAG	Midbrain, motor related	Polygon	5377	2661.2	795	323	0	2103	1483	620	29.48	461.4	1343742	6415.9
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Supraoculomotor periaqueductal gray	Su3	Periaqueductal gray	Geometry	5307.2	3185.7	614454277	795	0	262	189	73	27.86	602.97	121068	2261.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Oculomotor nucleus	III	Midbrain, motor related	Geometry	5284.4	3534	35	323	0	0	0	0	NaN	0	46590.8	1222
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, motor related	SCm	Midbrain, motor related	Geometry	5521.2	1907.2	294	323	0	5	3	2	40	0.6716	2978010.2	9669.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, motor related, intermediate gray layer	SCig	Superior colliculus, motor related	Geometry	5618.5	1602.1	10	294	0	0	0	0	NaN	0	870263	9431.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, motor related, intermediate white layer	SCiw	Superior colliculus, motor related	Geometry	5501.7	1896.6	17	294	0	0	0	0	NaN	0	1145228	8390.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, motor related, deep gray layer	SCdg	Superior colliculus, motor related	Polygon	5455.6	2204.4	26	294	0	0	0	0	NaN	0	803613.8	6934.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, motor related, deep white layer	SCdw	Superior colliculus, motor related	Polygon	5460.9	2156.9	42	294	0	6	3	3	50	18.88	158905.9	4938.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain reticular nucleus	MRN	Midbrain, motor related	Geometry	5395.2	3639.9	128	323	0	4	1	3	75	0.9346	3209978.9	11517.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain reticular nucleus, retrorubral area	RR	Midbrain, motor related	Geometry	6327.8	4207.1	246	323	0	0	0	0	NaN	0	85297.5	1109.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain, sensory related	MBsen	Midbrain	Geometry	5153.8	1825.1	339	313	0	0	0	0	NaN	0	1513856.6	14771.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Inferior colliculus	IC	Midbrain, sensory related	Geometry	4353.6	2849.9	4	339	0	0	0	0	NaN	0	264780.1	2752
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Inferior colliculus, external nucleus	ICe	Inferior colliculus	Geometry	4353.6	2849.9	828	4	0	0	0	0	NaN	0	264780.1	2752
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Nucleus sagulum	SAG	Midbrain, sensory related	Geometry	4488.6	3610.9	271	339	0	0	0	0	NaN	0	170897.6	2211.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, sensory related	SCs	Midbrain, sensory related	Geometry	5508.5	1069.6	302	339	0	0	0	0	NaN	0	981769.6	7847.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, zonal layer	SCzo	Superior colliculus, sensory related	Polygon	5509.5	985.97	834	302	0	0	0	0	NaN	0	132284.9	8473.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, superficial gray layer	SCsg	Superior colliculus, sensory related	Geometry	5512.8	1011.7	842	302	0	0	0	0	NaN	0	552822.2	7706.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Superior colliculus, optic layer	SCop	Superior colliculus, sensory related	Geometry	5500.1	1214.7	851	302	0	0	0	0	NaN	0	296662.8	7363.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Nucleus of the brachium of the inferior colliculus	NB	Midbrain, sensory related	Geometry	7045.2	3008.5	580	339	0	0	0	0	NaN	0	14969	837.78
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Parabigeminal nucleus	PBG	Midbrain, sensory related	Geometry	4528.5	3635.6	874	339	0	0	0	0	NaN	0	81440.2	1662.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain, behavioral state related	MBsta	Midbrain	Geometry	4535.4	4287.7	348	313	0	0	0	0	NaN	0	515145.5	4521.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Pedunculopontine nucleus	PPN	Midbrain, behavioral state related	Geometry	4323.7	4326.8	1052	348	0	0	0	0	NaN	0	395499.3	3054.3
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Midbrain raphe nuclei	RAmb	Midbrain, behavioral state related	Polygon	5235.3	4158.2	165	348	0	0	0	0	NaN	0	119645.8	1467.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Central linear nucleus raphe	CLI	Midbrain raphe nuclei	Polygon	5235.3	4158.2	591	165	0	0	0	0	NaN	0	119645.8	1467.5
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, medial part, dorsal zone	ENTm	Image	Geometry	4274.5	5260.9	926	909	0	0	0	0	NaN	0	1957733.2	12174
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, medial part, dorsal zone, layer 1	ENTm1	Entorhinal area, medial part, dorsal zone	Geometry	5347	5922.3	526	926	0	0	0	0	NaN	0	409358.6	7440.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, medial part, dorsal zone, layer 2	ENTm2	Entorhinal area, medial part, dorsal zone	Geometry	5054.7	5777.6	543	926	0	0	0	0	NaN	0	369187.1	6368.1
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, medial part, dorsal zone, layer 3	ENTm3	Entorhinal area, medial part, dorsal zone	Geometry	4526.2	5607.8	664	926	0	0	0	0	NaN	0	304325.1	5296.2
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, medial part, dorsal zone, layer 5	ENTm5	Entorhinal area, medial part, dorsal zone	Geometry	4284.5	5450.8	727	926	0	0	0	0	NaN	0	306873.4	4421.4
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Entorhinal area, medial part, dorsal zone, layer 6	ENTm6	Entorhinal area, medial part, dorsal zone	Geometry	2854	4159.7	743	926	0	0	0	0	NaN	0	567989	7261.8
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Hippocampal region	HIP	Image	Geometry	7629.5	4223.7	1080	1089	0	0	0	0	NaN	0	1035576	4616.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Dentate gyrus	DG	Hippocampal region	Geometry	7629.5	4223.7	726	1080	0	0	0	0	NaN	0	1035576	4616.7
+JKAY22.3f_2_Scan1_[5976,33335]_component_data_merged_Region 2.ome.tif	Dentate gyrus, molecular layer	DG-mo	Dentate gyrus	Geometry	7629.5	4223.7	10703	726	0	0	0	0	NaN	0	1035576	4616.7
