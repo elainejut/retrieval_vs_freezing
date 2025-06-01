@@ -15,6 +15,7 @@ Folder organization
 	d) retrieval_all_brains.ipynb --> combining analysis results from each mouse to summarize for all
 	
 2) TRAP(freezing)-specific code
+
 	a) registered --> data exported from QuPath
 	
 	b) fig_outputs --> output directory for figures/csv files from code
