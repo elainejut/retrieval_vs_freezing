@@ -20,11 +20,11 @@ Important variables to note are shown in **bold**.
 
 	a) imports
 	
-	b) **define "DATA_DIR" ** to set directory path for reading/saving data
+	b) **define "DATA_DIR"** to set directory path for reading/saving data
 	
 1) Read recording
 
-	a) ** "recording_data_index"  ** is used to identify which recording we are interested in 
+	a) **"recording_data_index"** is used to identify which recording we are interested in 
 	
 2) Preprocessing
 	
@@ -46,7 +46,7 @@ Important variables to note are shown in **bold**.
 
 	a) imports
 	
-	b) **define "DATA_DIR" ** to set directory path for reading/saving data
+	b) **define "DATA_DIR"** to set directory path for reading/saving data
 	
 1) Read recording
 	
